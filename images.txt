@@ -1,1 +1,1 @@
-postgres:alpine3.20
+sonarqube:10.6.0-community
