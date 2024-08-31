@@ -1,2 +1,2 @@
-sonarqube:10.1.0-community
-postgres:v1
+sonarqube:10.1.0
+jenkins:2.452
