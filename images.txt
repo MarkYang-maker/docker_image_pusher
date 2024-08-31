@@ -1,1 +1,4 @@
-gitlab/gitlab-ce
+busybox:v1
+sonarqube:10.1.0-community
+jenkins:2.452-jdk17
+postgres:v1
